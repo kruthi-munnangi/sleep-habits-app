@@ -11,7 +11,6 @@ Navigate using the sidebar to explore the pages below:
 st.markdown("""
 1. **Quiz** — Take a 5-question sleep habits assessment and get your personalized sleep hygiene score.
 2. **Dashboard** — Explore aggregate data visualizations and a machine learning model that predicts sleep quality based on collected responses.
-3. **Portfolio** — Learn more about me and my background.
 """)
 
 st.info("👈 Use the sidebar to get started!")
